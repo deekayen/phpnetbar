@@ -1,3 +1,8 @@
+phpnetbar
+=========
+
+[![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
+
 This is a PHP implementation of the network utililization
 bar on http://kernel.org. It measures outgoing bandwidth
 on a /proc based operating system, like Linux. That means
